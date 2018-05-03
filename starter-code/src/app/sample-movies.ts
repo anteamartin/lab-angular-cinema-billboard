@@ -1,4 +1,4 @@
-[
+export const movieList = [
   {
     id: 1,
     title: "The Shawshank Redemption",
@@ -16,6 +16,7 @@
       "William Sadler",
       "Clancy Brown",
       "Gil Bellows"
+      
     ]
   }, {
     id: 2,
@@ -72,7 +73,7 @@
       "Gary Oldman"
     ]
   }, {
-  {
+  
     id: 5,
     title: "Schindler's List",
     poster: "https://i.imgur.com/IWZJOmu.jpg",
